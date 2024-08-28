@@ -1,0 +1,13 @@
+
+.navbar-nav{
+    columns: 4;
+}
+
+.nav-item{
+    list-style-type: none;
+
+}
+.nav-link{
+    text-decoration: none;
+    color: blueviolet;
+}
